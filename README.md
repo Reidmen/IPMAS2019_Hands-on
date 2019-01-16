@@ -2,6 +2,7 @@
 Jupyter Notebook files for the Hands-on!
 
 ## Based shamelessly from the hIPPYlib tutorial repository https://hippylib.github.io/
+Usage only for educational purposes.
 
 ## Objective
 * Exposure the usage of Docker in combination with FEniCS FEM framework with hPPYlib.
