@@ -1,4 +1,4 @@
-# IPMAS2019_Hands-on
+# IPMAS2019 Hands-on/Taller 17/01/2019 Santiago, Chile
 Jupyter Notebook files for the Hands-on!
 
 ## Based shamelessly from the hIPPYlib tutorial repository https://hippylib.github.io/
